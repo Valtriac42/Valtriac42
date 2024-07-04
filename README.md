@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://valtriac4242.github.io/](https://valtriac4242.github.io/)
+- 👨‍💻 All of my projects are available at [https://valtriac4242.github.io/](https://github.com/Valtriac42/Projects)
 
 - 💬 Ask me about **Python, C++, C#, Unity, Java, JavaScript**
 
